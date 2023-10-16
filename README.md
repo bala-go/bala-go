@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bala and my Github username is @bala-go.
 - 👀 I’m a Systems Developement Engineer.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on Go beginners codes.
+- 🌱 I’m currently learning Golang and Phython.
+- 💞️ I’m looking to collaborate on Go and Phython beginners codes.
 - 📫 Mail ID: r_balakrishnan@outlook.com.
 
 <!---
